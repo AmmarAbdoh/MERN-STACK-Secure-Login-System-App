@@ -3,7 +3,9 @@ Login System MERN Stack App, This application uses the power of JSON Web Tokens 
 
 ## Important Note
 In order to run this app, you should create a file with the name .env in the backend folder and create variables as shown in the picture below (use your own variables such as database and secret key).
-![env](https://github.com/AmmarAbdoh/Secure-Login-System-MERN-App/assets/90091361/ea5fbc85-4051-486f-b2d0-b6e490ebc162)
+
+![env2](https://github.com/AmmarAbdoh/Secure-Login-System-MERN-App/assets/90091361/7571a953-6a48-4f4a-be17-84927c270a3d)
+
 
 
 ## Getting Started
