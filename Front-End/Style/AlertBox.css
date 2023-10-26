@@ -1,0 +1,8 @@
+.alert-box {
+  width: 50vw;
+}
+
+.alert-message {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
